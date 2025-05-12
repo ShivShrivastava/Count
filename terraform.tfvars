@@ -1,0 +1,1 @@
+rgname = ["chintu" , "chintu1" , "chintu2"] 
