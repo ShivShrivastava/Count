@@ -1,1 +1,1 @@
-rgname = ["chintu" , "chintu1" , "chintu2"] 
+rgname = ["chintu" , "chintu1" , "chintu2" , "chintu3"] 
